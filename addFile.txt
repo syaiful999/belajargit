@@ -6,6 +6,6 @@
 <h1>Belajar Git</h1>
 <h2>Perubahan File<h2>
 <h3>Menambahkan Branch Baru<h3>
-<h4>Mengatasi Conflict -by Dev B<h4>
+<h4>Mengatasi Conflict -by Dev A dan Dev B<h4>
 </body>
 </html>
